@@ -1,0 +1,852 @@
+Question,Answer,Class
+X != 'Yes','Yes' is not the value for X,!=
+X != 'Yes',if X is 'Yes'  than is false,!=
+X != 'Yes',if X is equal to 'Yes' then is false,!=
+X != 'Yes',the value of x is not equal to 'Yes',!=
+X != 'Yes',The value of X should not be Yes.,!=
+X != 'Yes',The variable X is different from 'Yes',!=
+X != 'Yes',X and 'Yes' do not mean the same thing,!=
+X != 'Yes',X can have anything other than Yes.,!=
+X != 'Yes',X can not be Yes,!=
+X != 'Yes',"X can't be 'Yes"".",!=
+X != 'Yes',X can't be the same as 'Yes'.,!=
+X != 'Yes',X can't have a value of Yes.,!=
+X != 'Yes',X cannot be 'Yes'.,!=
+X != 'Yes',x cannot be yes,!=
+X != 'Yes',X cannot be Yes.,!=
+X != 'Yes',X does not consist of Yes,!=
+X != 'Yes',X does not indicate 'Yes',!=
+X != 'Yes',x is any other but yes,!=
+X != 'Yes',X is not 'Yes',!=
+X != 'Yes',X is not equal to 'Yes',!=
+X != 'Yes',X is not the value 'Yes'.,!=
+X != 'Yes',X is not Yes,!=
+X != 'Yes',X is something other than 'Yes'.,!=
+X != 'Yes',X isn't 'Yes'.,!=
+X != 'Yes',X isn't able to be 'Yes'.,!=
+X != 'Yes',X may not be 'Yes'.,!=
+X != 'Yes',X may not equal 'Yes'.,!=
+X != 'Yes',X must be different from  'Yes',!=
+X != 'Yes',x must not be equivalent to 'Yes',!=
+X != 'Yes',X must not equal 'Yes',!=
+X != 'Yes',X must not be 'Yes',!=
+X != 'Yes',X must not be equal to 'Yes',!=
+X != 'Yes',X shall not mean 'Yes',!=
+X != 'Yes',X should be a string different to 'Yes',!=
+X != 'Yes',X should have values other than Yes.,!=
+X != 'Yes',X shouldn't be Yes.,!=
+X != 0,X isn't permitted to be zero.,!=
+X != 0,X is more or less than zero.,!=
+X != 2,It isn't acceptable for X to be 2.,!=
+X != 2,The value of X is not 2,!=
+X != 2,The value of X must not be equal to 2.,!=
+X != 2,The X must not be 2,!=
+X != 2,X can not be 2,!=
+X != 2,X can't be 2.,!=
+X != 2,X cannot be 2.,!=
+X != 2,X cannot be equal to 2,!=
+X != 2,X is not 2,!=
+X != 2,X is not able to equal 2.,!=
+X != 2,X is not equal to 2,!=
+X != 2,X is not equal to two.,!=
+X != 2,X is not two,!=
+X != 2,X may not be 2.,!=
+X != 2,X must not be 2,!=
+X != 2,X must not be equal 2,!=
+X != 2,X must not be equal to 2.,!=
+X != 2,X must not be equals to 2,!=
+X != 2,X must not be two,!=
+X != 2,X shall not be 2,!=
+X != 2,X should not be 2.,!=
+X != 2,X should not be equal to 2.,!=
+X != 2,X should not be equals to 2,!=
+X != 2,X's value must not be '2',!=
+X != 2,X must be anything but 2,!=
+X != 2,X is greater than or less than two.,!=
+X != 2,X shouldn't hold a number equal to two.,!=
+X != 2,2 must not be equal to x,!=
+X != 2,The number two is not equal to X.,!=
+X != 2,The variable X does not equal two.,!=
+X != 2,Two is not equal to X.,!=
+X != 2,two is not X,!=
+X != 2,value of X not equals to 2,!=
+X != 2,X can be anything but '2',!=
+X != 2,X can be anything other than two.,!=
+X != 2,X can't have a value of two.,!=
+X != 2,X does not consist of 2,!=
+X != 2,X does not equal two.,!=
+X != 2,X is a number other than two.,!=
+X != 2,X is a value other than two.,!=
+X != 2,X is any number except 2,!=
+X != 2,X is different than 2,!=
+X != 2,X must be a value other than 2,!=
+X != 2,X must be other than 2,!=
+X != 2,X must have value other than 2.,!=
+X != 2,X not equals to 2,!=
+Length(X) != 0,The length cannot be equal to zero.,!=
+Length(X) != 10,Character length of X is not equal to ten.,!=
+Length(X) != 10,Length of X is not 10.,!=
+Length(X) != 10,Length of X is not equal to Ten,!=
+Length(X) != 10,Length of X is not ten.,!=
+Length(X) != 10,Length of X must not be 10,!=
+Length(X) != 10,Length of X should not be equal to 10,!=
+Length(X) != 10,Length x is not 10.,!=
+Length(X) != 10,The character count for X is not equal to ten.,!=
+Length(X) != 10,The character count of X should not be 10.,!=
+Length(X) != 10,The length is not 10.,!=
+Length(X) != 10,The length of X  is not equal to 10.,!=
+Length(X) != 10,The length of X  must not be equal to 10.,!=
+Length(X) != 10,The length of X cannot be equal to 10.,!=
+Length(X) != 10,The length of X should not be 10.,!=
+Length(X) != 10,The length of X should not be equal to 10.,!=
+Length(X) != 10,x length could not be equal to ten,!=
+Length(X) != 10,x length must not be equal to ten,!=
+Length(X) != 10,x length should not be equal to ten,!=
+Length(X) != 10,x length should be greater than or smaller than ten,!=
+Length(X) != 10,The length of X is not 10 characters.,!=
+Length(X) != 10,The length of X must not be 10 characters.,!=
+Length(X) != 10,The length of X should not be ten characters.,!=
+Length(X) != 10,X is not 10 characters,!=
+Length(X) != 10,X is not 10 characters long.,!=
+Length(X) != 10,X must not be 10 characters,!=
+Length(X) != 10,X must not be 10 characters long.,!=
+Length(X) != 10,X should not be 10 characters,!=
+Length(X) != 10,10 can't be equals to length of X,!=
+Length(X) != 10,10 is not the length of x,!=
+Length(X) != 10,Length of X can not be equals to 10,!=
+Length(X) != 10,Length of X must not be equals to 10,!=
+Length(X) != 10,Length of X should definitely not equal to ten,!=
+Length(X) != 10,Length of X should not be equals to 10,!=
+Length(X) != 10,The length does not equal 10.,!=
+Length(X) != 10,The length of X should have value other than 10.,!=
+Length(X) != 10,The X can not have 10 characters,!=
+Length(X) != 10,x can have any length except 10,!=
+Length(X) != 10,X does not have a length of 10 characters.,!=
+Length(X) != 10,X must not have 10 characters,!=
+Length(X) != 10,X should not have 10 characters,!=
+Length(X) != 10,X shouldn't have ten characters in it.,!=
+X < 0,The value of X cannot be zero or more.,<
+X < 0,The value of X is less than zero.,<
+X < 0,The value X is smaller than 0,<
+X < 0,X is less than 0,<
+X < 0,X is smaller than 0,<
+X < 0,X must be less than zero.,<
+X < 0,X must be smaller than 0,<
+X < 0,X should be less than 0,<
+X < 0,x should be less than zero,<
+X < 0,X should be smaller than 0,<
+X < 0,x should be smaller than zero,<
+X < 0,X is not 0 or a positive number,<
+X < 0,X is a negative number,<
+X < 0,X is a sub-0 number,<
+X < 0,0 is bigger than the value X,<
+X < 0,0 is bigger than X,<
+X < 0,0 is greater than X,<
+X < 0,The value of X is fewer than 0,<
+X < 0,x can be negative,<
+X < 0,X consists of a number lower than 0,<
+X < 0,X equals a number lower than 0,<
+X < 0,X equals a number under 0.,<
+X < 0,X falls under 0.,<
+X < 0,X has a value that is less than zero.,<
+X < 0,X holds a number that is lower than 0.,<
+X < 0,X is a number lower than 0,<
+X < 0,X is below 0,<
+X < 0,X is below 0.,<
+X < 0,X is fewer than 0.,<
+X < 0,X is lower than 0,<
+X < 0,X is lower than zero.,<
+X < 0,X is negative,<
+X < 0,X is to be found below 0,<
+X < 0,X must be lower than 0,<
+X < 0,X shall not reach 0 or higher,<
+X < 0,x should be lower than 0,<
+X < 0,X will be a value below 0,<
+X < 0,Zero is greater than the value of X.,<
+X < 0,zero is more than X,<
+X < 2,X has to be not as much as 2.,<
+X < 2,X is not bigger or equal than 2,<
+X < 2,X is not two or greater.,<
+X < 2,The value of X is less than 2,<
+X < 2,The X is smaller than 2,<
+X < 2,X is a number less than 2.,<
+X < 2,X is less than 2,<
+X < 2,X is smaller than 2,<
+X < 2,X is strictly lesser than 2,<
+X < 2,X must be less than 2,<
+X < 2,x must be less than two,<
+X < 2,X must be smaller than 2,<
+X < 2,X should be smaller than 2,<
+X < 2,X's number must be less than 2,<
+X < 2,X's value will be less than 2,<
+X < 2,X is a lower number than 2,<
+X < 2,2 is always bigger than x,<
+X < 2,2 is bigger than X,<
+X < 2,2 is greater than X,<
+X < 2,2 is more than the value of x.,<
+X < 2,2 must be bigger than X,<
+X < 2,2 must be more than X,<
+X < 2,Two is more than X.,<
+X < 2,X can only hold a value lower than two.,<
+X < 2,X has a value that is less than two.,<
+X < 2,x is always smaller than 2,<
+X < 2,X is lower than 2,<
+X < 2,X is under two.,<
+X < 2,X LESS THAN 2,<
+X < 2,X MUST LESS THAN TWO,<
+X < 2,X shall not reach as high as 2,<
+X < 2,X will be below 2.,<
+X < 2,X will be under 2.,<
+X < 2,X will equal a number less than 2.,<
+X < 2,X will equal some number beneath 2.,<
+X < 2,"X is comprised in the interval ]-infinity, 2[",<
+X < 3,X can not be 3 or bigger,<
+X <= 0,x has a value equal to or less than 0,<
+X <= 0,"X is 0, or less than 0.",<
+X <= 0,x is either 0 or less than 0,<
+X <= 0,X is smaller and also equal to 0,<
+X <= 0,"X must be 0, or less than 0.",<
+X <= 0,The value of X is less than or equal to 0,<
+X <= 0,X can't be greater than 0.,<
+X <= 0,X is less than or equal to 0,<
+X <= 0,X is not greater than 0,<
+X <= 0,X must be less than or equal to 0.,<
+X <= 0,X should be less than or equal to zero.,<
+X <= 0,x should be smaller or equal to zero,<
+X <= 0,X's value can not be greater than 0,<
+X <= 0,x can be small or equal to zero,<
+X <= 0,x could be small or equal to zero,<
+X <= 0,X has a value less than or equal to zero.,<
+X <= 0,X is lower or equal to zero.,<
+X <= 0,X may be 0 or less,<
+X <= 0,x must be small or equal to zero,<
+X <= 0,0 is equal to or greater than X,<
+X <= 0,0 is greater than or equal to X,<
+X <= 0,X can contain a number not exceeding zero.,<
+X <= 0,X can equal 0 or be less than 0.,<
+X <= 0,X can not be bigger than 0,<
+X <= 0,X can't be higher than zero.,<
+X <= 0,X equals or is less than 0,<
+X <= 0,X is a number lower than 0 or is 0,<
+X <= 0,x is a number not higher than 0,<
+X <= 0,X is either 0 or lower than 0,<
+X <= 0,x must be 0 or below 0,<
+X <= 0,X must be either 0 or lower than 0,<
+X <= 0,x must have a value equal to or less than 0,<
+X <= 0,X shall not exceed 0,<
+X <= 0,X's value could be as high as 0,<
+X <= 0,"the value of x must be less than 0, including 0",<
+X <= 0,X can equal to 0 but can't be greater than 0.,<
+X <= 1,x cannot be greater than 1,<
+X <= 2,The value of X should be less than or equal to 2.,<
+X <= 2,X cannot be greater than 2,<
+X <= 2,X is equal to or less than 2,<
+X <= 2,X is less than or equal to 2,<
+X <= 2,X is lesser or equal to 2,<
+X <= 2,X is not greater than 2.,<
+X <= 2,X is smaller than or equal to 2.,<
+X <= 2,X must be equal or smaller than 2,<
+X <= 2,X must be less than or equal to 2.,<
+X <= 2,X must be smaller than or equal to 2.,<
+X <= 2,x must not be greater than 2,<
+X <= 2,x should not be more than 2,<
+X <= 2,The maximum value for X is 2,<
+X <= 2,the value of x is two to less,<
+X <= 2,The value of X should be two or less.,<
+X <= 2,X can be 2 or smaller,<
+X <= 2,X may be 2 or less,<
+X <= 2,X must have value less than or equal to 2.,<
+X <= 2,2 is equal to or greater than X,<
+X <= 2,2 is greater or equal to X,<
+X <= 2,2 is greater than or equal to X,<
+X <= 2,2 is the greatest X could be,<
+X <= 2,"the value of x is two to less, including 2",<
+X <= 2,X can contain a value that can't exceed two.,<
+X <= 2,X can not exceed 2,<
+X <= 2,X can take values equal to or less than 2,<
+X <= 2,X can't exceed two.,<
+X <= 2,X cannot be bigger than 2.,<
+X <= 2,X consists of a number lower than 2 or 2,<
+X <= 2,"x is a value below 2, which can also be 2",<
+X <= 2,X is either 2 or lower than 2,<
+X <= 2,X is lower than two or equal to it.,<
+X <= 2,X is no bigger than 2,<
+X <= 2,X is not bigger than 2.,<
+X <= 2,x less than equal to 2,<
+X <= 2,X must be lower than 2 or 2,<
+X <= 2,X shall be no higher than 2,<
+X <= 2,X's value could be as high as 2,<
+X <= 2,"X is in the range (-∞, 2]",<
+X <= 2,"X is comprised in the interval ]-infinity, 2]",<
+X <= 2,x is equal to 2 or less than 2,<
+X <= 2,x is less than 2 or equal to 2,<
+X <= 2,X is smaller than 2 or equal to 2,<
+Length(X) < 10,It is not as long as 10,<
+Length(X) < 10,length of x cannot be equal to or bigger than 10 units,<
+Length(X) < 10,Character count of X is less than ten.,<
+Length(X) < 10,length of x is less than 10,<
+Length(X) < 10,Length of X is less than ten.,<
+Length(X) < 10,Length X is less than 10,<
+Length(X) < 10,The length is less than 10,<
+Length(X) < 10,The length is less than ten.,<
+Length(X) < 10,The length of x is less than 10,<
+Length(X) < 10,The length of X is smaller than 10,<
+Length(X) < 10,The length of X will be less than 10,<
+Length(X) < 10,The number of characters in X is less than ten.,<
+Length(X) < 10,X's length is less than 10.,<
+Length(X) < 10,X is under 10 long.,<
+Length(X) < 10,The length of X should be less than 10 characters.,<
+Length(X) < 10,X has less than 10 characters,<
+Length(X) < 10,X is smaller than ten characters,<
+Length(X) < 10,X must have less than 10 characters,<
+Length(X) < 10,10 characters is bigger than the value of X,<
+Length(X) < 10,10 is always bigger than the length of x,<
+Length(X) < 10,10 is greater than the length of X,<
+Length(X) < 10,Character length of X is lower than ten.,<
+Length(X) < 10,length of x is always smaller than 10,<
+Length(X) < 10,Length shorter than ten.,<
+Length(X) < 10,Length X is less than 10 and 10 is greater than Length X,<
+Length(X) < 10,Ten is higher than the length.,<
+Length(X) < 10,The length measurement of X will fall below 10,<
+Length(X) < 10,The length of X is inferior to 10,<
+Length(X) < 10,The length of X is under ten.,<
+Length(X) < 10,The length of X should measure below 10 characters.,<
+Length(X) < 10,The number of characters of X is lower than 10,<
+Length(X) < 10,X has a length less than 10.,<
+Length(X) < 10,X has to have a length that's under 10,<
+Length(X) < 10,X length does not reach 10,<
+Length(X) < 10,X length of characters should be lower than 10,<
+Length(X) < 10,x should be below 10 characters,<
+Length(X) < 10,X should be under 10 characters in length.,<
+Length(X) < 10,X should have a character length lower than ten.,<
+Length(X) < 10,X will have a length that is fewer than 10,<
+Length(X) < 10,X will have a length that is underneath 10,<
+Length(X) < 10,Length(X) is less than 10.,<
+Length(X) <= 10,The length of x is no more than 10,<
+Length(X) <= 10,The number of characters in X is not more than ten.,<
+Length(X) <= 10,The length is shorter than 10,<
+Length(X) <= 10,Length is less than or equal to ten.,<
+Length(X) <= 10,length of x is smaller or equal to 10,<
+Length(X) <= 10,Length of X should be less than or equal to 10.,<
+Length(X) <= 10,Length of X should not be greater than 10.,<
+Length(X) <= 10,Length X is less than or equal to 10,<
+Length(X) <= 10,The length of X is less than or equal to 10.,<
+Length(X) <= 10,The length of X is smaller or equal to 10.,<
+Length(X) <= 10,The length of X must be smaller or equal to 10.,<
+Length(X) <= 10,X length cannot be greater than ten,<
+Length(X) <= 10,X length should be less than or equal to ten,<
+Length(X) <= 10,X's length is less than or equal to ten,<
+Length(X) <= 10,Character count of X is ten or lower.,<
+Length(X) <= 10,The characters in X would be lower than or equal to ten.,<
+Length(X) <= 10,X must be less than 10 characters,<
+Length(X) <= 10,X has to be no longer than 10 characters,<
+Length(X) <= 10,X must not be greater than 10 characters,<
+Length(X) <= 10,X should have less than or equal to 10 characters.,<
+Length(X) <= 10,10 is equal to or greater than length X,<
+Length(X) <= 10,10 is greater or equal to the length of x,<
+Length(X) <= 10,10 is greater than or equal to the length of x,<
+Length(X) <= 10,10 is greater than or equal to x's length,<
+Length(X) <= 10,length of x cannot exceed 10,<
+Length(X) <= 10,length of x is within 10 units,<
+Length(X) <= 10,Length of X should not exceed ten.,<
+Length(X) <= 10,Ten is equal to or more than the length.,<
+Length(X) <= 10,The length of X can only be smaller or equal to 10.,<
+Length(X) <= 10,The length of X characters is either 10 or less than 10,<
+Length(X) <= 10,The length of X should not be bigger than 10.,<
+Length(X) <= 10,The number of characters in X should not exceed 10.,<
+Length(X) <= 10,X must have a maximum of 10 characters,<
+Length(X) <= 10,X's length should equal fewer than 10 characters.,<
+Length(X) <= 10,X consists of either 10 characters or less than 10 characters,<
+Length(X) <= 10,X has either 10 characters or less than 10 characters,<
+Length(X) <= 10,X length could be smaller than ten or equal to ten,<
+Length(X) <= 10,X length must be less than ten or equal to ten,<
+Length(X) <= 10,X must have either 10 characters or less than 10 characters,<
+Length(X) <= 9,X is no longer than 9,<
+Length(X) <= 9,x should not be greater than 9 characters,<
+Length(X) <= 9,x should not be more than 9 characters,<
+X = 'Yes',The value of x is yes,=
+X = 'Yes',X  is the equivalent to Yes.,=
+X = 'Yes',x  should be just 'yes',=
+X = 'Yes',X and Yes are equal.,=
+X = 'Yes',X equals 'Yes',=
+X = 'Yes',X equals Yes,=
+X = 'Yes',"X has the value equal to ""Yes""",=
+X = 'Yes',X is 'Yes',=
+X = 'Yes',X is assigned the value 'Yes',=
+X = 'Yes',X is equal to 'Yes',=
+X = 'Yes',"X is equal to ""Yes""",=
+X = 'Yes',X is equal to yes,=
+X = 'Yes',X is equivalent to 'YES'.,=
+X = 'Yes',"X is same as ""Yes""",=
+X = 'Yes',X is the same as Yes,=
+X = 'Yes',X is Yes,=
+X = 'Yes',x must be equal to 'yes',=
+X = 'Yes',x must be identical to 'yes',=
+X = 'Yes',X must be YES,=
+X = 'Yes',X must come up as 'Yes',=
+X = 'Yes',X must equal yes,=
+X = 'Yes',X shall be 'Yes',=
+X = 'Yes',x should be like 'yes',=
+X = 'Yes',x should be same to 'yes',=
+X = 'Yes',X should be Yes,=
+X = 'Yes',Yes is X,=
+X = 0,X has a value of zero,=
+X = 2,X cannot be greater than or less than 2,=
+X = 2,The value of X is 2,=
+X = 2,The value of X is two.,=
+X = 2,The value of X must be 2,=
+X = 2,X is 2,=
+X = 2,X is equal 2,=
+X = 2,x is equal to 2,=
+X = 2,X must be 2,=
+X = 2,X MUST BE A TWO,=
+X = 2,X must be equals to 2,=
+X = 2,x must be exactly two,=
+X = 2,x must be just 2,=
+X = 2,X should be 2,=
+X = 2,X should be equal to 2,=
+X = 2,X should be equals to 2,=
+X = 2,X's value is 2,=
+X = 2,2 and X are the same value,=
+X = 2,2 is the value of x,=
+X = 2,The value of X equals 2,=
+X = 2,The value of x is the same as two,=
+X = 2,Two is the value for X,=
+X = 2,Value of X should be equals to 2,=
+X = 2,X and 2 are the same.,=
+X = 2,x cannot be anything except 2,=
+X = 2,X contains a value of two.,=
+X = 2,x equals 2,=
+X = 2,X equals to 2,=
+X = 2,X has a value of 2.,=
+X = 2,X holds two.,=
+X = 2,X is equivalent to 2.,=
+X = 2,X is the equivilent of 2,=
+X = 2,X is the same as 2.,=
+X = 2,X must equal 2,=
+X = 2,X only equals to 2,=
+X = 2,X shall equal 2,=
+X = 2,x should be same as 2,=
+X = 2,X should not be different to 2,=
+X = 2,X will always equal 2,=
+Length(X) = 0,X should be equal to 0 characters,=
+Length(X) = 10,Length of X should not be other than 10.,=
+Length(X) = 10,Character count of X is ten.,=
+Length(X) = 10,Length of X is equal to ten.,=
+Length(X) = 10,Length of X should be equal to 10.,=
+Length(X) = 10,Number of characters in X is 10.,=
+Length(X) = 10,The length of X is 10,=
+Length(X) = 10,The length of X is equal to 10.,=
+Length(X) = 10,The length of X must be 10.,=
+Length(X) = 10,The length of X should be 10.,=
+Length(X) = 10,The number of characters in X is ten.,=
+Length(X) = 10,The total number of characters in X should be 10.,=
+Length(X) = 10,value of X must be ten characters,=
+Length(X) = 10,value of X should be ten characters,=
+Length(X) = 10,X must be ten characters,=
+Length(X) = 10,X should be ten characters,=
+Length(X) = 10,10 is equal to length X,=
+Length(X) = 10,10 is the length of X,=
+Length(X) = 10,10 is the same as the legnth of X,=
+Length(X) = 10,Length of X is equals to 10,=
+Length(X) = 10,Length of X must be equals to 10,=
+Length(X) = 10,Length of X should be equals to 10,=
+Length(X) = 10,Length X equals 10,=
+Length(X) = 10,The X consists of 10 characters,=
+Length(X) = 10,X has 10 characters,=
+Length(X) = 10,X has a character length of ten.,=
+Length(X) = 10,X is 10 long,=
+Length(X) = 10,X must have 10 characters,=
+X > 0,X cannot be 0 or a negative number,>
+X > 0,x has to be higher than zero,>
+X > 0,X is neither negative nor zero.,>
+X > 0,X is over 0.,>
+X > 0,x should be more than zero,>
+X > 0,The value of X is greater than zero.,>
+X > 0,X is greater than 0,>
+X > 0,X IS LONGER THAN ZERO,>
+X > 0,X is more than 0.,>
+X > 0,X is not equal to or less than zero,>
+X > 0,X is not smaller or equal than 0,>
+X > 0,X must be greater than 0,>
+X > 0,X must be more than zero.,>
+X > 0,X should not be less than or equal to 0,>
+X > 0,0 is a lower number than X,>
+X > 0,The variable X is a positive number,>
+X > 0,X is a positive number.,>
+X > 0,0 is less than X,>
+X > 0,0 is smaller than X,>
+X > 0,The X is bigger than 0,>
+X > 0,X cannot be zero nor minor to 0,>
+X > 0,X equals a number higher than 0.,>
+X > 0,x has a value greater than 0,>
+X > 0,x has a value that is greater than 0,>
+X > 0,X is a number bigger than 0,>
+X > 0,X is a positive value.,>
+X > 0,X is above 0.,>
+X > 0,X is bigger than 0,>
+X > 0,X is higher than 0.,>
+X > 0,X IS LARGER THAN ZERO,>
+X > 0,X is not 0 and is not less than 0,>
+X > 0,X must be bigger than 0,>
+X > 0,x must be larger than zero,>
+X > 0,X should be bigger than 0,>
+X > 0,X takes value greater than 0,>
+X > 0,X's number must exceed 0,>
+X > 0,X's value is higher than 0,>
+X > 0,Zero is less than the value of X.,>
+X > 0,Zero is less than X.,>
+X > 0,"X can take values ​​in the range (0, + ∞)",>
+X > 2,the number x is greater than 2,>
+X > 2,The value of X is greater than two.,>
+X > 2,X has a value more than two.,>
+X > 2,X has to be greater than 2.,>
+X > 2,X is greater than 2,>
+X > 2,X is more than 2.,>
+X > 2,X is much greater than 2,>
+X > 2,X is not equal or smaller than 2,>
+X > 2,X must be greater than 2,>
+X > 2,X must be more than 2.,>
+X > 2,X should be greater than 2,>
+X > 2,X's value is more than 2,>
+X > 2,X cannot be smaller than 2.,>
+X > 2,2 is smaller than X,>
+X > 2,The value of X should exceed two.,>
+X > 2,Two is less than the value of X.,>
+X > 2,Two is less than X.,>
+X > 2,X consists of a number bigger than 2,>
+X > 2,X is a number bigger than 2,>
+X > 2,x is a number larger than 2,>
+X > 2,X is bigger than 2,>
+X > 2,X is higher than 2,>
+X > 2,x is larger than 2,>
+X > 2,X isn't 2 or less.,>
+X > 2,X may only be more than 2,>
+X > 2,X must be bigger than 2,>
+X > 2,X must be larger than 2,>
+X > 2,X must be over the value of 2.,>
+X > 2,X shall be at least higher than 2,>
+X > 2,X should be a number which is bigger than 2,>
+X > 2,X should be bigger than 2,>
+X > 2,X should hold a number which is more than two.,>
+X > 2,X's number must exceed 2,>
+X >= 0,X has a value greater or equal to zero.,>
+X >= 0,X is at least zero.,>
+X >= 0,X is zero or more.,>
+X >= 0,X may be 0 or more,>
+X >= 0,X shall be at least 0,>
+X >= 0,The value of X is more than zero or equal to it.,>
+X >= 0,x could be zero or greater than zero,>
+X >= 0,x must have a value equal to or greater than 0,>
+X >= 0,It is greater than or equal to 0.,>
+X >= 0,the value of x is equal to or greater than 0,>
+X >= 0,the value of x must be equal to or greater than 0,>
+X >= 0,x can be greater or equal to zero,>
+X >= 0,X cannot be smaller than 0,>
+X >= 0,X is greater or equal to zero.,>
+X >= 0,X is greater than or equal to 0,>
+X >= 0,X is greater than or equal to zero.,>
+X >= 0,X is no smaller than 0,>
+X >= 0,X is not less than 0,>
+X >= 0,X is not less than zero.,>
+X >= 0,X is not smaller than 0,>
+X >= 0,X must be greater or equal to 0,>
+X >= 0,X must be greater than or equal to 0,>
+X >= 0,X holds a number greater or equal to zero.,>
+X >= 0,0 can be equal to X but also less than X.,>
+X >= 0,0 is equal to or less than X.,>
+X >= 0,0 is not greater than X,>
+X >= 0,0 is smaller than or equal to X,>
+X >= 0,X can be equal to 0 but also be greater than 0.,>
+X >= 0,X can have a value of zero or more.,>
+X >= 0,"x has a value of 0 and up, including 0",>
+X >= 0,X is equals or greater than 0,>
+X >= 0,X is not lower than zero.,>
+X >= 0,X is not negative.,>
+X >= 0,X is positive or 0.,>
+X >= 0,X is positive or zero.,>
+X >= 0,"the value of x must be greater than 0, including 0",>
+X >= 0,X can be greater than 0 or equal to 0,>
+X >= 0,X must be equal to 0 or greater than 0,>
+X >= 0,x should be greater than zero or equal to zero,>
+X >= 2,Value of X must be greater than or equals to 2,>
+X >= 2,X could be greater than or equals to 2,>
+X >= 2,X either has to equal 2 or be greater than 2,>
+X >= 2,x is 2 or more,>
+X >= 2,X is a minimum or 2.,>
+X >= 2,X is above or equal to 2,>
+X >= 2,X is bigger or equal to 2,>
+X >= 2,X is going to either be 2 or be above 2,>
+X >= 2,X is higher or equal to 2,>
+X >= 2,X is higher than or equal to two.,>
+X >= 2,X is superior or equal to 2,>
+X >= 2,X is two or higher.,>
+X >= 2,X may be 2 or more,>
+X >= 2,X must be equal to 2 or greater,>
+X >= 2,X must be greater than or equals to 2,>
+X >= 2,X shall be at least 2,>
+X >= 2,X will have to be over or equaling 2,>
+X >= 2,X's number must be at least 2,>
+X >= 2,X cannot be less than 2,>
+X >= 2,X is equal to or greater than 2.,>
+X >= 2,X is greater than or equal to 2,>
+X >= 2,X is greater than or equal to two.,>
+X >= 2,X is no less than 2,>
+X >= 2,X is not smaller than 2,>
+X >= 2,X is not smaller than 2 .,>
+X >= 2,X must be greater or equal to 2,>
+X >= 2,2 is the lowest number that x can be,>
+X >= 2,2 is inferior or equal to X,>
+X >= 2,2 is lesser than or equal to X,>
+X >= 2,The value of X is higher than two or is two.,>
+X >= 2,Value of X greater than or equals to 2,>
+X >= 2,X can be 2 or bigger than 2,>
+X >= 2,x is 2 or a number higher than 2,>
+X >= 2,X is at least 2 or more.,>
+X >= 2,X IS BIGGER THAN OR EQUAL TO TWO,>
+X >= 2,X is either larger than 2 or is 2,>
+X >= 2,X IS LONGER THAN OR EQUAL TO TWO,>
+X >= 2,X is more than two or equal to it.,>
+X >= 2,X must be bigger than 2 or it must be 2,>
+X >= 2,X must be equivalent to or higher than 2,>
+X >= 2,"x value from 2 upwards, including 2",>
+X >= 2,X's value could be as low as 2,>
+X >= 2,X can take values ​​between 2 and +∞,>
+X >= 2,X can take values ​​greater than 2 or equal to 2,>
+X >= 2,X cannot take values ​​less than 2,>
+X >= 2,"the value of x is greater than 2, including 2",>
+X >= 2,X has got to be more than 2 or the same as 2,>
+X >= 2,X is equal to 2 or greater than 2,>
+X >= 2,"x is greater than 2, including 2",>
+Length(X) > 0,Length of X is not 0 or negative,>
+Length(X) > 0,The number of characters of X should be more than 0,>
+Length(X) > 0,A length has to be greater than 0,>
+Length(X) > 0,Length of X is more than zero.,>
+Length(X) > 0,Length of X must be greater than zero,>
+Length(X) > 0,Length of X should be greater than zero.,>
+Length(X) > 0,Length of X should not be less than or equal to zero.,>
+Length(X) > 0,The length of X is a positive integer greater than 0,>
+Length(X) > 0,The length of X is greater than zero.,>
+Length(X) > 0,The length of X is more than 0.,>
+Length(X) > 0,The length of X must not be smaller or equal to 0.,>
+Length(X) > 0,X is longer than 0.,>
+Length(X) > 0,X is longer than zero.,>
+Length(X) > 0,X's length is more than zero.,>
+Length(X) > 0,X should not have length less than 1.,>
+Length(X) > 0,X must be longer than 0 characters,>
+Length(X) > 0,X should be longer than 0 characters,>
+Length(X) > 0,length of x is a positive number,>
+Length(X) > 0,Length of X must be a non zero positive number,>
+Length(X) > 0,0 is smaller than the length of X,>
+Length(X) > 0,A length is always larger than 0,>
+Length(X) > 0,Character count of X is larger than zero.,>
+Length(X) > 0,Character length of X is higher than zero.,>
+Length(X) > 0,Length is nonzero.,>
+Length(X) > 0,Length of X greater than 0,>
+Length(X) > 0,Length of X is bigger than 0,>
+Length(X) > 0,Length of X must be larger than 0,>
+Length(X) > 0,The length is higher than zero.,>
+Length(X) > 0,The length is necessarily greater than zero.,>
+Length(X) > 0,The length of x is always greater than 0,>
+Length(X) > 0,The length of X is bigger than 0.,>
+Length(X) > 0,The length of X must be bigger than 0.,>
+Length(X) > 0,The length of X should be bigger than 0.,>
+Length(X) > 0,The length of X surpasses 0.,>
+Length(X) > 0,The number of characters in X exceeds zero.,>
+Length(X) > 0,The X must have characters which are more than 0,>
+Length(X) > 0,The X should have more than 0 characters,>
+Length(X) > 0,"X cannot be zero, but X is greater than 0",>
+Length(X) > 0,X consists of more than 0 characters,>
+Length(X) > 0,X contains more than 0 characters,>
+Length(X) > 0,X has a length that exceeds 0.,>
+Length(X) > 0,X has at least one character,>
+Length(X) > 0,X has more than 0 characters,>
+Length(X) > 0,X has more than zero characters.,>
+Length(X) > 0,X must have any character,>
+Length(X) > 0,X must have at least one character,>
+Length(X) > 0,X must have caracther,>
+Length(X) > 0,X should have at least one character.,>
+Length(X) > 0,X's length is above 0.,>
+Length(X) > 0,"Length of X does not equal 0, it is longer than 0",>
+Length(X) > 1,X should be longer than one characters,>
+Length(X) > 10,Length of X is more than 10.,>
+Length(X) > 10,The length of X is more than 10.,>
+Length(X) > 10,The length of X must be more than 10,>
+Length(X) > 10,The number of characters in X is more than ten.,>
+Length(X) > 10,The numbers of characters of X should be more than 10,>
+Length(X) > 10,Length of X is greater than 10.,>
+Length(X) > 10,Length of x must be greater than 10,>
+Length(X) > 10,Length of X should be greater than 10.,>
+Length(X) > 10,Length of X should not be less than or equal to 10.,>
+Length(X) > 10,Number of characters in X is greater than 10.,>
+Length(X) > 10,The length of X cannot be smaller than or equal to 10,>
+Length(X) > 10,The length of X is greater than 10,>
+Length(X) > 10,The length of X is not less than or equal to 10.,>
+Length(X) > 10,the length of x must be greater than 10,>
+Length(X) > 10,X has a length more than ten.,>
+Length(X) > 10,x is greater in length than 10,>
+Length(X) > 10,X is longer than 10,>
+Length(X) > 10,X is longer than 10.,>
+Length(X) > 10,x must be longer than 10,>
+Length(X) > 10,X should be longer than 10,>
+Length(X) > 10,X's length is greater than 10,>
+Length(X) > 10,X must be longer than 10 characters,>
+Length(X) > 10,X should be longer than 10 characters,>
+Length(X) > 10,10 is less than length X,>
+Length(X) > 10,Length of x can only be greater than 10,>
+Length(X) > 10,Length of X must be bigger than 10.,>
+Length(X) > 10,Length of x should be higher than 10 but not equal to 10,>
+Length(X) > 10,The length of X is larger than 10,>
+Length(X) > 10,the length of x must be higher than 10,>
+Length(X) > 10,The X is comprised of more than 10 characters.,>
+Length(X) > 10,The X should have more than 10 characters,>
+Length(X) > 10,X has a length greater than 10.,>
+Length(X) > 10,X has a length of more than 10 characters,>
+Length(X) > 10,X has a length that's more than 10.,>
+Length(X) > 10,X is at least larger than 10,>
+Length(X) > 10,x represents a length that is greater than 10,>
+Length(X) > 10,X should have a character length of more than ten.,>
+Length(X) > 10,Length(X) is greater than 10.,>
+Length(X) > 10,"x is longer than 10, excluding 10",>
+Length(X) >= 0,length of x can be zero or bigger,>
+Length(X) >= 0,The character count of X is zero or greater.,>
+Length(X) >= 0,The length of X is at least 0,>
+Length(X) >= 0,The length of X is zero or greater,>
+Length(X) >= 0,The length of X must be at least 0,>
+Length(X) >= 0,The number of characters in X is zero or more.,>
+Length(X) >= 0,X should have a length greater than or equal to zero.,>
+Length(X) >= 0,X's length is 0 or bigger,>
+Length(X) >= 0,Length of x can be 0 or greater than 0,>
+Length(X) >= 0,The variable X must have a length equal to or greater than zero,>
+Length(X) >= 0,X must have a length equal to or greater than zero,>
+Length(X) >= 0,Length of x cannot be less than 0,>
+Length(X) >= 0,Length of x must be greater than or equal to 0,>
+Length(X) >= 0,The length of the variable X must be greater or equal to zero,>
+Length(X) >= 0,The length of X cannot be a number less than zero,>
+Length(X) >= 0,The length of X is greater than or equal to zero,>
+Length(X) >= 0,The length of X must be equal to or greater than zero,>
+Length(X) >= 0,X must be longer or equal than 0 characters,>
+Length(X) >= 0,X should be longer or equal than 0 characters,>
+Length(X) >= 0,The length of X must be a positive number zero or greater,>
+Length(X) >= 0,0 is the smallest length X could be,>
+Length(X) >= 0,Length of x can either be 0 or greater than 0,>
+Length(X) >= 0,length of x is always greater or equal to zero,>
+Length(X) >= 0,X has a character length of more than zero or equal to it.,>
+Length(X) >= 0,X has a length that is equal to 0 or over 0.,>
+Length(X) >= 0,x has some length or none,>
+Length(X) >= 0,X's length equals 0 or is above 0.,>
+Length(X) >= 10,Character length of X is higher or equal to ten.,>
+Length(X) >= 10,The length is at least 10,>
+Length(X) >= 10,The length of X is at least 10.,>
+Length(X) >= 10,The minimum lenght is 10.,>
+Length(X) >= 10,The minimum number for length is 10.,>
+Length(X) >= 10,X is at least 10 long,>
+Length(X) >= 10,X is at least 10 units long.,>
+Length(X) >= 10,X's length is 10 or more,>
+Length(X) >= 10,X's length is at least 10.,>
+Length(X) >= 10,Character count of X is more than or equal to ten.,>
+Length(X) >= 10,The lenght must be more than or equal to 10.,>
+Length(X) >= 10,Length of x cannot be less than 10,>
+Length(X) >= 10,Length of X is greater than or equal to 10,>
+Length(X) >= 10,The Lenght of X is greater than or equal to 10.,>
+Length(X) >= 10,The length of X is greater than or equal to 10,>
+Length(X) >= 10,The length of X must be greater than or equal to 10,>
+Length(X) >= 10,The number of characters in X is greater than or equal to ten.,>
+Length(X) >= 10,X is no shorter than 10,>
+Length(X) >= 10,X cannot be less than 10 characters,>
+Length(X) >= 10,X is longer or equal than 10 characters,>
+Length(X) >= 10,X must be longer or equal than 10 characters,>
+Length(X) >= 10,X should be longer or equal than ten characters,>
+Length(X) >= 10,X should not be smaller than 10 characters,>
+Length(X) >= 10,Ten and Above ten is the worth of length of X,>
+Length(X) >= 10,The length of characters of X is either than or more than 10,>
+Length(X) >= 10,X contains 10 elements or more,>
+Length(X) >= 10,X has at least 10 elements,>
+Length(X) >= 10,X is as long as or longer than 10,>
+Length(X) >= 10,X is comprised of more than 10 characters or 10 characters,>
+Length(X) >= 10,X IS LENGTHIER THAN OR EQUAL TO 10,>
+Length(X) >= 10,X should have at least ten characters in it.,>
+Length(X) >= 10,Length(X) can take the value 10 or values ​​greater than 10,>
+Length(X) >= 10,"Length(X) can take values ​​in the set I = [10, +∞)",>
+Length(X) >= 10,The length starts at 10 & goes up from there.,>
+Length(X) >= 10,Lenght(X) is not less than 10.,>
+Length(X) >= 10,Length(X) is not less than 10,>
+Length(X) >= 10,Length(X) must be 10 and bigger than 10,>
+Length(X) >= 10,Length(X) value is 10 and above 10,>
+Length(X) >= 10,The length of x is greater than 10 or equal to 10,>
+Length(X) >= 10,X consists of a number of characters which is 10 or more than 10,>
+Length(X) >= 10,X has either 10 characters or more than 10 characters,>
+Length(X) >= 11,X must have at least 11 characters,>
+X = NULL,The value of x is null.,IS NULL
+X = NULL,The value of X should be equal to NULL.,IS NULL
+X = NULL,X is blank.,IS NULL
+X = NULL,X is empty,IS NULL
+X = NULL,X is equal to null,IS NULL
+X = NULL,X is null,IS NULL
+X = NULL,X MUST BE A EMPTY,IS NULL
+X = NULL,X MUST BE A NULL,IS NULL
+X = NULL,X must be empty,IS NULL
+X = NULL,X must be equal to NULL.,IS NULL
+X = NULL,X must be left blank,IS NULL
+X = NULL,X must be null,IS NULL
+X = NULL,X should be empty,IS NULL
+X = NULL,X should be null,IS NULL
+X = NULL,Do not fill in a value for X,IS NULL
+X = NULL,Null is stored in X,IS NULL
+X = NULL,There is no value for x.,IS NULL
+X = NULL,There must not be a value for X,IS NULL
+X = NULL,X and NULL are the same,IS NULL
+X = NULL,X can not be anything,IS NULL
+X = NULL,X contains nothing,IS NULL
+X = NULL,X displays 'NULL',IS NULL
+X = NULL,X equals NULL,IS NULL
+X = NULL,X has no value.,IS NULL
+X = NULL,X has not been entered yet.,IS NULL
+X = NULL,X is 'NULL',IS NULL
+X = NULL,X is assigned NULL,IS NULL
+X = NULL,X is equivalent to NULL,IS NULL
+X = NULL,X is invalid,IS NULL
+X = NULL,X is the same as NULL,IS NULL
+X = NULL,X MUST BE A NOTHING,IS NULL
+X = NULL,X must not have any character,IS NULL
+X = NULL,X shall be 'NULL',IS NULL
+X = NULL,X should have only NULL value.,IS NULL
+X = NULL,X should not have values other than NULL.,IS NULL
+X = NULL,X's value is 'NULL',IS NULL
+X != NULL,The value of X cannot be null.,NOT NULL
+X != NULL,The value of x is not null,NOT NULL
+X != NULL,x cannot be equal to null,NOT NULL
+X != NULL,X cannot be left empty,NOT NULL
+X != NULL,X cannot be null,NOT NULL
+X != NULL,X IS NOT BE A NULL,NOT NULL
+X != NULL,x is not empty,NOT NULL
+X != NULL,X is not null,NOT NULL
+X != NULL,X isn't permitted to be null.,NOT NULL
+X != NULL,X MUST NOT BE A EMPTY,NOT NULL
+X != NULL,x must not be blank,NOT NULL
+X != NULL,X must not be empty,NOT NULL
+X != NULL,x must not be equal to NULL,NOT NULL
+X != NULL,X must not be null,NOT NULL
+X != NULL,X should not be empty,NOT NULL
+X != NULL,X should not be null.,NOT NULL
+X != NULL,X's value is not null,NOT NULL
+X != NULL,The value of x is different from null,NOT NULL
+X != NULL,X is unable to be null.,NOT NULL
+X != NULL,It's not acceptable for X to equal null.,NOT NULL
+X != NULL,There must be a value assigned to X so it is not left empty,NOT NULL
+X != NULL,X can not be nothing,NOT NULL
+X != NULL,X cannot be missing.,NOT NULL
+X != NULL,X cannot equal null.,NOT NULL
+X != NULL,X cannot have any characters,NOT NULL
+X != NULL,x contains atleast one element,NOT NULL
+X != NULL,X has a value other than null,NOT NULL
+X != NULL,x has some values,NOT NULL
+X != NULL,X is defined,NOT NULL
+X != NULL,X is different than null,NOT NULL
+X != NULL,X is not to be 'NULL',NOT NULL
+X != NULL,X must have a value,NOT NULL
+X != NULL,X must not be 'NULL',NOT NULL
+X != NULL,X MUST NOT BE NOTHING,NOT NULL
+X != NULL,x should contain value not equal to NULL,NOT NULL
+X != NULL,x should not be void,NOT NULL
+X != NULL,x should not equal to Null,NOT NULL
