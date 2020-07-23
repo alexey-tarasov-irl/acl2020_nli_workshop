@@ -6,4 +6,15 @@ The dataset covers a scenario where an English sentence is used to derive a stat
 - **Answer**: English sentence provided by a turker (output of HITs), a rephrasing of Question.
 - **Class**: class of a logical statement (one of six).
 
+If you use this dataset, please cite the following paper:
+```
+@inproceedings{tarasov-2020-towards,
+    title = "Towards Reversal-Based Textual Data Augmentation for {NLI} Problems with Opposable Classes",
+    author = "Tarasov, Alexey",
+    booktitle = "Proceedings of the First Workshop on Natural Language Interfaces",
+    year = "2020",
+    publisher = "Association for Computational Linguistics",
+    pages = "11--19",
+}
+```
 If you have any question about the data, feel free to raise a github issue or drop me an email. Thanks!
